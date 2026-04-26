@@ -9,7 +9,7 @@ This project is currently a **Work in Progress**. I am currently documenting my 
 
 ### 📍 Current Progress
 - [x] Initial Data Diagnostic & Structural Fixes
-- [x] Duplicate Name Handling & "Version Control" Logic
+- [x] Duplicate Name Handling & NULL Logic
 - [ ] Text Standardization (Mechanics & Domains Corpus)
 - [ ] Exploratory Data Analysis (EDA)
 - [ ] Predictive Modeling (Complexity vs. Rating)
